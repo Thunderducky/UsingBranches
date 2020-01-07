@@ -12,7 +12,7 @@ SO THAT I can win arguments with my friends .
 ## APIs to be used
 OMDBApi.com
 ## Rough Breakdown of Tasks
-Create the HTML Skeleton
-Style the main page to match the wireframe
-Display All information related to a movie
-Add a button that plays a laughing sound when you are correct
+Create the HTML Skeleton  
+Style the main page to match the wireframe  
+Display All information related to a movie  
+Add a button that plays a laughing sound when you are correct  
